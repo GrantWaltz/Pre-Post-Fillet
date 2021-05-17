@@ -24,4 +24,4 @@ hist(fishdat2$pref[fishdat2$species == "Copper rockfish"])
 hist(fishdat2$pref[fishdat2$species == "Vermilion rockfish"])
 hist(fishdat2$pref[fishdat2$species == "Gopher rockfish"], col = "light blue")
 
-
+## hello, can you see me? I an typing
