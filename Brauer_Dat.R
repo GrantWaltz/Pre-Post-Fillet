@@ -28,3 +28,4 @@ hist(fishdat2$pref[fishdat2$species == "Gopher rockfish"], col = "light blue")
 #Grant is making changes
 #this is kaila 
 #testing 
+#can you see this in R
